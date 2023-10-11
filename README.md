@@ -9,4 +9,5 @@
 
 Link to Various [Ants](https://www.antwiki.org/wiki/Formicidae)
 
-![Carpenter Ant](/Users/brendagaribay/Desktop/tfcb-homework01/images/casent0191696_camponotus_darwinii.jpg)
+![Carpenter Ant](/Users/brendagaribay/Desktop/tfcb-homework01/images
+/casent0191696_camponotus_darwinii.jpg "Carpenter Ant")
